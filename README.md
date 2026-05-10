@@ -49,32 +49,32 @@
 ## SKILLINVENTORY
 | 프로젝트명 | 참여기간<br> YY.MM~YY.MM | 고 객 사 | 근무회사 | 역할 | OS | Language | DBMS | Collaboration Tools | 기타 |
 |------------|-----------------------|---------|---------|----|----|----------|------|--------------------|------|
-| 타이틀리스트 수주회 | 23.06~23.08 | 타이틀리스트 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mariadb | visual studio, svn, devops
-| KIOSK JOIN | 23.01~23.03 | 한성자동차 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, api, vanillaJs(javascript) | mssql | visual studio, svn, devops | crm api연동 
-| SRS | 22.02~22.12 | 한성자동차 | ㈜오토브레인 | PG | Windows | java, spring boot, vanillaJs(javascript), JPA, Hibernate, gradle, thymeleaf | mssql | intelliJ, svn, devops | nice 본인인증, nicednr 
-| 한성중고차홈페이지 | 21.08~22.02 | 한성자동차 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, api, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, nice 본인인증, toss payments, 카히스토리(보험이력) 
-| Service Join | 20.11~21.06 | 한성자동차 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, 서명 및 동의서 캡쳐Pdf 생성 
-| 푸조, 시트로엥 홈페이지 리뉴얼 | 20.06~20.10 | 한불자동차 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mariadb | visual studio, svn | 반응형으로 리뉴얼 
-| Sales Join | 20.05~20.05 | 한성자동차 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, 서명 및 동의서 캡쳐이미지 생성 
-| GM콜센터 상황판 | 20.04~20.04 | ㈜오토브레인 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | oracle | visual studio, svn | java struts -> .net 변경 
-| file manager | 19.05~19.08 | 블루리본 커뮤니케이션 | ㈜오토브레인 | PG | Windows | winform(c#), entity frameworkf | sqlite | visual studio, svn | SK미디어 자료를 등록 관리 
-| Laurus | 18.07~19.02 | ㈜오토브레인 | ㈜오토브레인 | PG | Windows, iOS, Android | asp, windows service(c#), phonegap(cordova) | mariadb | visual studio, xcode, eclipse, svn | kg inicis, ios, android, naver shoping, windows service, store 출시 
-| Smartpay | 16.01~16.06 | 바텍코리아 | ㈜오토브레인 | PG | Windows | asp.net mvc(c#), jquery | mysql | vvisual studio, svn | 진료기기와 결제UI를 연동, 미결제시 서비스 제한, ct촬영장비와의 연동, kg inicis, oauth2.0, web api 
-| Tch Royalty | 15.03~15.11 | 효성 | ㈜오토브레인 | PG | Windows | winform(c#) | oracle | vvisual studio | 년 단위 고객 점수 연산 및 리포트 
-| SM3 Z.E 홍보앱 | 15.02~15.02 | 르노삼성 | ㈜오토브레인 | PG | Android | phonegap(cordova) | sqlite | eclipse | 국제전기차 엑스포 에서 사용한 SM3 Z.E 홍보앱 
+| 타이틀리스트 수주회 | 23.06~23.08 | 타이틀리스트 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mariadb | visual studio, svn, devops
+| KIOSK JOIN | 23.01~23.03 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, api, vanillaJs(javascript) | mssql | visual studio, svn, devops | crm api연동 
+| SRS | 22.02~22.12 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | java, spring boot, vanillaJs(javascript), JPA, Hibernate, gradle, thymeleaf | mssql | intelliJ, svn, devops | nice 본인인증, nicednr 
+| 한성중고차홈페이지 | 21.08~22.02 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, api, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, nice 본인인증, toss payments, 카히스토리(보험이력) 
+| Service Join | 20.11~21.06 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, 서명 및 동의서 캡쳐Pdf 생성 
+| 푸조, 시트로엥 홈페이지 리뉴얼 | 20.06~20.10 | 한불자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mariadb | visual studio, svn | 반응형으로 리뉴얼 
+| Sales Join | 20.05~20.05 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, 서명 및 동의서 캡쳐이미지 생성 
+| GM콜센터 상황판 | 20.04~20.04 | <nobr>오토브레인</nobr> | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | oracle | visual studio, svn | java struts -> .net 변경 
+| file manager | 19.05~19.08 | 블루리본 커뮤니케이션 | <nobr>오토브레인</nobr> | PG | Windows | winform(c#), entity frameworkf | sqlite | visual studio, svn | SK미디어 자료를 등록 관리 
+| Laurus | 18.07~19.02 | <nobr>오토브레인</nobr> | <nobr>오토브레인</nobr> | PG | Windows, iOS, Android | asp, windows service(c#), phonegap(cordova) | mariadb | visual studio, xcode, eclipse, svn | kg inicis, ios, android, naver shoping, windows service, store 출시 
+| Smartpay | 16.01~16.06 | 바텍코리아 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), jquery | mysql | vvisual studio, svn | 진료기기와 결제UI를 연동, 미결제시 서비스 제한, ct촬영장비와의 연동, kg inicis, oauth2.0, web api 
+| Tch Royalty | 15.03~15.11 | 효성 | <nobr>오토브레인</nobr> | PG | Windows | winform(c#) | oracle | vvisual studio | 년 단위 고객 점수 연산 및 리포트 
+| SM3 Z.E 홍보앱 | 15.02~15.02 | 르노삼성 | <nobr>오토브레인</nobr> | PG | Android | phonegap(cordova) | sqlite | eclipse | 국제전기차 엑스포 에서 사용한 SM3 Z.E 홍보앱 
 | 2015년 세계 태권도 선수권 대회 정보앱 | 15.01~15.05 | 태권소프트 | | PG | iOS, Android | phonegap(cordova), webservice(c#) | mssql | xcode, eclipse | 2015년 세계 태권도 대회 정보 및 경기결과 제공 
-| 수입차명품관 | 14.05~14.07 | 동아,경향,한경 | ㈜오토브레인 | PG | Windows | asp, jquery | mssql | visual studio, svn | 신문사 홈페이지에 별도 메뉴로 추가 운영된 홍보 사이트 
-| 서울모터쇼 | 13.03~13.03 | Porsche | ㈜오토브레인 | PG | iOS | phonegap(cordova) | sqlite | xcode 
-| 바텍코리아 홈페이지 | 13.02~13.09 | 바텍코리아 | ㈜오토브레인 | PG | Windows | asp, jquery | mysql | visual studio, svn | PG(kg이니시스)
-| 푸조, 시트로엥 모바일홈페이지 | 13.01~13.05 | 한불모터스 | ㈜오토브레인 | PG | Windows | asp, jquery | mssql | visual studio, svn
-| 푸조, 시트로엥 홈페이지 | 12.04~12.12 | 한불모터스 | ㈜오토브레인 | PG | Windows | asp, jquery, webservice(c#) | mssql | visual studio, svn
-| SmartUpdate | 12.01~12.03 | Warelead | ㈜오토브레인 | PG | Windows | winform(c#), wcf, wmi | mssql | visual studio, svn | 진단장비 Update 매니저 
-| Warelead 다국어 홈페이지 | 11.09~12.01 | Warelead | ㈜오토브레인 | PG | Windows | asp, jquery | mssql | visual studio, svn
-| UK모터스 홈페이지 | 11.06~11.09 | UK모터스 | ㈜오토브레인 | PG | Windows | asp, jquery | mssql | visual studio, svn
-| 한국은행 NMS | 10.08~10.11 | 한국은행 | 조은정보기술㈜ | PG | Windows | webform(c#), jquery | oracle | visual studio | snmp, tcp/ip, icmp, soap, devexpress, webform
-| 행안부 NMS | 09.03~09.08 | 행안부 | 조은정보기술㈜ | PG | Windows | webform(c#), javascript | mssql | visual studio | snmp, tcp/ip, icmp, soap, SLA(Service Level Agreement):인터넷품질보장제도
-| 서울지방경찰청 NMS | 08.10~09.03 | 서울지방청 | 조은정보기술㈜ | PG | Windows | asp, javascript, c | mssql | visual studio | snmp, tcp/ip, icmp, soap
-| 국토해양부 NMS | 08.08~08.10 | 국토해양부 | 조은정보기술㈜ | PG | Windows | asp, javascript, c | mssql | visual studio
+| 수입차명품관 | 14.05~14.07 | 동아,경향,한경 | <nobr>오토브레인</nobr> | PG | Windows | asp, jquery | mssql | visual studio, svn | 신문사 홈페이지에 별도 메뉴로 추가 운영된 홍보 사이트 
+| 서울모터쇼 | 13.03~13.03 | Porsche | <nobr>오토브레인</nobr> | PG | iOS | phonegap(cordova) | sqlite | xcode 
+| 바텍코리아 홈페이지 | 13.02~13.09 | 바텍코리아 | <nobr>오토브레인</nobr> | PG | Windows | asp, jquery | mysql | visual studio, svn | PG(kg이니시스)
+| 푸조, 시트로엥 모바일홈페이지 | 13.01~13.05 | 한불모터스 | <nobr>오토브레인</nobr> | PG | Windows | asp, jquery | mssql | visual studio, svn
+| 푸조, 시트로엥 홈페이지 | 12.04~12.12 | 한불모터스 | <nobr>오토브레인</nobr> | PG | Windows | asp, jquery, webservice(c#) | mssql | visual studio, svn
+| SmartUpdate | 12.01~12.03 | Warelead | <nobr>오토브레인</nobr> | PG | Windows | winform(c#), wcf, wmi | mssql | visual studio, svn | 진단장비 Update 매니저 
+| Warelead 다국어 홈페이지 | 11.09~12.01 | Warelead | <nobr>오토브레인</nobr> | PG | Windows | asp, jquery | mssql | visual studio, svn
+| UK모터스 홈페이지 | 11.06~11.09 | UK모터스 | <nobr>오토브레인</nobr> | PG | Windows | asp, jquery | mssql | visual studio, svn
+| 한국은행 NMS | 10.08~10.11 | 한국은행 | <nobr>조은정보기술</nobr> | PG | Windows | webform(c#), jquery | oracle | visual studio | snmp, tcp/ip, icmp, soap, devexpress, webform
+| 행안부 NMS | 09.03~09.08 | 행안부 | <nobr>조은정보기술</nobr> | PG | Windows | webform(c#), javascript | mssql | visual studio | snmp, tcp/ip, icmp, soap, SLA(Service Level Agreement):인터넷품질보장제도
+| 서울지방경찰청 NMS | 08.10~09.03 | 서울지방청 | <nobr>조은정보기술</nobr> | PG | Windows | asp, javascript, c | mssql | visual studio | snmp, tcp/ip, icmp, soap
+| 국토해양부 NMS | 08.08~08.10 | 국토해양부 | <nobr>조은정보기술</nobr> | PG | Windows | asp, javascript, c | mssql | visual studio
 
 ---
 
