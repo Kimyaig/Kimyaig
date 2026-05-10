@@ -49,7 +49,7 @@
 ## SKILLINVENTORY
 | 프로젝트명 | 참여기간<br> YY.MM~YY.MM | 고 객 사 | 근무회사 | 역할 | OS | Language | DBMS | Collaboration Tools | 기타 |
 |------------|-----------------------|---------|---------|----|----|----------|------|--------------------|------|
-| 타이틀리스트 수주회 | 23.06~23.08 | 타이틀리스트 | &nbsp;오토브레인&nbsp; | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mariadb | visual studio, svn, devops
+| 타이틀리스트 수주회 | 23.06~23.08 | 타이틀리스트 | &emsp;오토브레인&emsp; | PG | Windows | asp.net mvc(c#), entity frameworkf, vanillaJs(javascript) | mariadb | visual studio, svn, devops
 | KIOSK JOIN | 23.01~23.03 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, api, vanillaJs(javascript) | mssql | visual studio, svn, devops | crm api연동 
 | SRS | 22.02~22.12 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | java, spring boot, vanillaJs(javascript), JPA, Hibernate, gradle, thymeleaf | mssql | intelliJ, svn, devops | nice 본인인증, nicednr 
 | 한성중고차홈페이지 | 21.08~22.02 | 한성자동차 | <nobr>오토브레인</nobr> | PG | Windows | asp.net mvc(c#), entity frameworkf, api, vanillaJs(javascript) | mssql | visual studio, svn | crm api연동, nice 본인인증, toss payments, 카히스토리(보험이력) 
